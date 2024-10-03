@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"20fd4cba-bbae-44f4-a420-2815f51634cb\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Bool_ServerOut\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"0afb2c2f-12ca-471e-87aa-c41414075af2\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Int_Version\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"4cae4e1d-ffe3-4a9f-bb6d-5ac130fbcef2\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Int_EnemiesObj\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    10\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ed600de4-022c-48f7-930e-6b27b5de6a5f\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Str_Win\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"Ganaste Capo\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"c9b53628-aaaf-4b7e-a8c1-bef2c4f3470f\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"Str_Loose\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"Sos Malardo\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"20fd4cba-bbae-44f4-a420-2815f51634cb\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Bool_ServerOut\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"0afb2c2f-12ca-471e-87aa-c41414075af2\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Int_Version\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"4cae4e1d-ffe3-4a9f-bb6d-5ac130fbcef2\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Int_EnemiesObj\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    10\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ed600de4-022c-48f7-930e-6b27b5de6a5f\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Str_Win\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"Ganaste Capo\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"c9b53628-aaaf-4b7e-a8c1-bef2c4f3470f\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"Str_Loose\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"Sos Malardo\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"9d50352e-38f4-4e54-a34c-0c023c018e44\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"436c1791-e99e-4ce8-922a-83024df071d1\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-10-02T22:13:43Z\",\r\n    \"updatedAt\":
+    \"2024-10-02T22:13:43Z\"\r\n  }\r\n]"
